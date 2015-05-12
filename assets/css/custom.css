@@ -1,0 +1,477 @@
+
+/*===================================================================================*/
+/*	BODY
+/*===================================================================================*/
+
+
+
+
+/*===================================================================================*/
+/*	HEADER
+/*===================================================================================*/
+
+
+.inner-top-xs {
+    padding-top: 35px;
+}
+
+.inner-bottom-xs {
+    padding-bottom: 35px;
+}
+
+.outer-top-xs {
+    margin-top: 45px;
+}
+
+.outer-bottom-xs {
+    margin-bottom: 45px;
+}
+
+
+
+
+
+
+/*===================================================================================*/
+/*	HEADER
+/*===================================================================================*/
+
+header .container-fluid {
+    position: relative;
+    z-index: 2;
+}
+
+.header-left {
+    float: left;
+    height: 92px;
+    position: relative;
+    background: #efefef url(http://www.uti.edu/uti/img/hdrleft_bg.png) repeat-x;
+    margin: 0 auto;
+    -webkit-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    -moz-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    z-index: 100000;
+    padding: 11px;
+}
+
+    .header-left:before {
+        content: '';
+        display: block;
+        width: 45px;
+        height: 92px;
+        position: absolute;
+        top: 0;
+        left: 99%;
+        background: url(http://www.uti.edu/uti/img/ra_white.png) center top no-repeat;
+        z-index: 1000000;
+    }
+
+.header-middle {
+    height: 83px;
+    -webkit-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    -moz-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    background: #d83427 url(http://www.uti.edu/uti/img/hdrMiddle_bg.png) repeat-x;
+}
+
+    .header-middle:after {
+        content: '';
+        display: block;
+        width: 43px;
+        height: 83px;
+        position: absolute;
+        top: 0;
+        left: 99%;
+        z-index: 1000;
+        background: url(http://www.uti.edu/uti/img/ra_red.png) no-repeat;
+    }
+
+.hdrMiddle:after {
+    content: '';
+    display: block;
+    width: 43px;
+    height: 83px;
+    position: absolute;
+    top: 0;
+    left: 99%;
+    z-index: 1000;
+}
+
+
+.header-right {
+    padding: 7px 0 7px 15px;
+    position: relative;
+    z-index: -1;
+    background: #fff;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…BoZWlnaHQ9IjEiIGZpbGw9InVybCgjZ3JhZC11Y2dnLWdlbmVyYXRlZCkiIC8+Cjwvc3ZnPg==);
+    background: -moz-linear-gradient(top,#fff 37%,#eee 100%);
+    background: -webkit-gradient(linear,left top,left bottom,color-stop(37%,#fff),color-stop(100%,#eee));
+    background: -webkit-linear-gradient(top,#fff 37%,#eee 100%);
+    background: -o-linear-gradient(top,#fff 37%,#eee 100%);
+    background: -ms-linear-gradient(top,#fff 37%,#eee 100%);
+    background: linear-gradient(to bottom,#fff 37%,#eee 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff',endColorstr='#eeeeee',GradientType=0);
+    -webkit-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    -moz-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    box-shadow: 8px 3px 8px rgba(50,50,50,.75);
+    border-bottom: 0 solid #ab221a;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+/*===================================================================================*/
+/*	Headings
+/*===================================================================================*/
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Tungsten A','Tungsten B' !important;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 74px;
+}
+
+h2 {
+    font-size: 46px;
+}
+/*===================================================================================*/
+/*	Images
+/*===================================================================================*/
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/*Image Box Highlight*/
+.imgboxes_style1 h3 {
+    position: absolute;
+    left: 15px;
+    bottom: 4px;
+    color: #fff;
+    padding: 0px 10px;
+    background: #a70e13;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    font-weight: 500;
+    line-height: 1;
+    margin: 0;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+}
+
+
+/*===================================================================================*/
+/*	NAV
+/*===================================================================================*/
+
+.navbar-nav > li > a {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 16px;
+    text-transform: inherit;
+    padding: 24px 21px;
+    color: #fff;
+    border-right: 1px solid #c51709;
+}
+
+.navbar-nav {
+    padding-left: 0;
+}
+
+.navbar-collapse.collapse {
+    padding: 0;
+}
+
+
+.navbar {
+    background-color: transparent;
+}
+
+
+    .navbar .navbar-collapse {
+        position: relative;
+        background-color: transparent;
+        width: 100%;
+        border-bottom: 0 solid #E6E9ED;
+        margin-bottom: -11px;
+    }
+
+.navbar-brand img {
+    max-height: 70px;
+}
+
+a.navbar-brand {
+    float: right;
+}
+
+.navbar-header {
+    border-bottom: 0;
+}
+
+
+
+.navbar .nav .open > a,
+.navbar .nav .open > a:hover,
+.navbar .nav .open > a:focus {
+    /*background-color: #2a6496;
+    border-color: #2a6496;*/
+    color: #2a6496;
+}
+
+
+.yamm .dropdown.yamm-fullwidth .dropdown-menu {
+    left: -180px;
+}
+
+/*===================================================================================*/
+/*	PADDING REMOVAL
+/*===================================================================================*/
+.no-padding {
+    padding: 0;
+}
+
+.no-top-padding {
+    padding-top: 0;
+}
+
+.no-right-padding {
+    padding-right: 0;
+}
+
+.no-bottom-padding {
+    padding-bottom: 0;
+}
+
+.no-left-padding {
+    padding-left: 0;
+}
+
+/*===================================================================================*/
+/*	MARGIN REMOVAL
+/*===================================================================================*/
+.no-margin {
+    margin: 0;
+}
+
+.no-top-margin {
+    margin-top: 0;
+}
+
+.no-right-margin {
+    margin-right: 0;
+}
+
+.no-bottom-margin {
+    margin-bottom: 0;
+}
+
+.no-left-margin {
+    margin-left: 0;
+}
+
+
+/*===================================================================================*/
+/*	ROYAL SLIDER
+/*===================================================================================*/
+#full-width-slider {
+    width: 100%;
+    color: #000;
+    margin: 0 auto;
+    text-align: center;
+}
+
+section#hero {
+    /* border-bottom: 5px solid #0186d1; */
+    -webkit-box-shadow: 0 0 14px 1px #000;
+    -ms-box-shadow: 0 0 14px 1px #000;
+    box-shadow: 0 0 14px 1px #000;
+    top: -12px;
+    position: relative;
+    z-index: 1;
+}
+
+
+
+
+/*Media Queries*/
+@media (max-width: 1024px) {
+
+    .header-left, .header-middle:after, .header-right, .dropdown-menu {
+        display: none !important;
+    }
+
+    .header-middle {
+        width: 100%;
+        float: none;
+        position: relative;
+        height: auto;
+        background: #fff;
+    }
+
+    a.navbar-brand {
+        float: left;
+    }
+
+    .navbar .navbar-collapse {
+        background: white;
+    }
+
+    .navbar-brand img {
+        max-height: 50px;
+    }
+
+    .navbar-nav > li > a {
+        text-transform: uppercase;
+        color: #2a6496;
+        border-right: 0;
+    }
+
+    .navbar-header {
+        padding: 8px 0 18px 0;
+    }
+}
+
+
+
+
+/*ARROW*/
+.intro-arrow {
+    background: url(../images/down-arrows/navy-blue-down-arrow.png) center top/120% no-repeat;
+    color: #fff;
+      margin-top: -53px;
+    position: relative;
+}
+
+.light-bg-down-arrow {
+    background: url(../images/down-arrows/light-bg-down-arrow.png) center top/120% no-repeat;
+    margin-top: 0;
+    position: relative;
+}
+
+
+.white-red-down-arrow {
+    background: url(../images/down-arrows/white-bg-red-down-arrow.png) center top/120% no-repeat;
+    margin-top: 0;
+    position: relative;
+}
+
+.white-blue-down-arrow {
+    background: url(../images/down-arrows/white-bg-blue-down-arrow.png) center top/120% no-repeat;
+    margin-top: 0;
+    position: relative;
+}
+
+
+.dark-footer-up-arrow {
+    background: url(../images/down-arrows/dark-footer-up-arrow.png) center bottom/120% no-repeat;
+    margin-top: 0;
+    position: relative;
+}
+
+.arrow-top-bottom {
+    background-image: url(../images/down-arrows/light-bg-down-arrow.png), url(../images/down-arrows/dark-footer-up-arrow.png);
+    background-position: center top, center bottom;
+    background-repeat: no-repeat;
+}
+
+/*light-bg-left-arrow.png*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-default{
+color: #fff;
+background-color: #39b3d7;
+border-color: #269abc;
+}
+.navbar-default .navbar-nav > li > a{
+	color:#fff;
+}
+.navbar-default .navbar-nav > .dropdown > a .caret{
+	border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+.navbar-default .navbar-brand{
+	color:#fff;
+}
+.menu-large {
+  position: static !important;
+}
+.megamenu{
+  padding: 20px 0px;
+  width:100%;
+}
+.megamenu> li > ul {
+  padding: 0;
+  margin: 0;
+}
+.megamenu> li > ul > li {
+  list-style: none;
+}
+.megamenu> li > ul > li > a {
+  display: block;
+  padding: 3px 20px;
+  clear: both;
+  font-weight: normal;
+  line-height: 1.428571429;
+  color: #333333;
+  white-space: normal;
+}
+.megamenu> li ul > li > a:hover,
+.megamenu> li ul > li > a:focus {
+  text-decoration: none;
+  color: #262626;
+  background-color: #f5f5f5;
+}
+.megamenu.disabled > a,
+.megamenu.disabled > a:hover,
+.megamenu.disabled > a:focus {
+  color: #999999;
+}
+.megamenu.disabled > a:hover,
+.megamenu.disabled > a:focus {
+  text-decoration: none;
+  background-color: transparent;
+  background-image: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+  cursor: not-allowed;
+}
+.megamenu.dropdown-header {
+  color: #428bca;
+  font-size: 18px;
+}
+@media (max-width: 768px) {
+  .megamenu{
+    margin-left: 0 ;
+    margin-right: 0 ;
+  }
+  .megamenu> li {
+    margin-bottom: 30px;
+  }
+  .megamenu> li:last-child {
+    margin-bottom: 0;
+  }
+  .megamenu.dropdown-header {
+    padding: 3px 15px !important;
+
+  }
+  .navbar-nav .open .dropdown-menu .dropdown-header{
+	color:#fff;
+  }
+}
