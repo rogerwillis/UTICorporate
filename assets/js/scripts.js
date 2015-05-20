@@ -1,5 +1,56 @@
+//$(document).ready(function() {
+//    
+//      $(document).on("scroll", onScroll);
+
+//      });
+
+//  function onScroll(event){
+//  if ($(document).scrollTop() >= 50) {$('.header-left:before').css({'height':'45px'})}
+//  }
+
+
+//$(window).on('scroll', function() {
+//    var scrollTop = $(this).scrollTop();
+//        
+//        if ((scrollTop) > 1) {
+
+//              $(".header-left, .header-left:before").animate({
+//            //left: '+=50',
+//            height: '85'
+//        }, 0);
+//        }
+
+//        else if((scrollTop) == 0 ) {
+//            console.log('TOP');
+//            $(".header-left, .header-left:before").animate({
+//         
+//            height: '105'
+//        }, 0);
+
+//        }
+
+//});
+
 /*===================================================================================*/
-/*	Hoverintent Setup 
+/*	Mobile Menu Close Toggle
+/*===================================================================================*/
+
+jQuery('.responsive-menu').on('click', function(){
+    console.log('on click');
+ if(jQuery('.mobile-menu').hasClass('icon-menu-1')){
+
+     jQuery('.responsive-menu span').text('close menu');
+	jQuery('.mobile-menu').removeClass('icon-menu-1').addClass('icon-cancel-1');
+    
+	}
+
+else{jQuery('.responsive-menu span').text('menu');
+jQuery('.mobile-menu').removeClass('icon-cancel-1').addClass('icon-menu-1');}
+
+});
+
+/*===================================================================================*/
+/*	Hover intent Setup 
 /*===================================================================================*/
 
 
@@ -45,29 +96,29 @@ $('.dropdown').on('show.bs.dropdown', function () {
 
 
 /*===================================================================================*/
-/*	Call to action box affix    
+/*	Affix    
 /*===================================================================================*/
 
-
-
-jQuery('.cta-phone-box').affix({
-            offset: {
-                top: $('.navbar').height()
-            }
-
-        });         $('.cta-phone-box').on('affixed.bs.affix', function () {         $('.request-more-info-small').removeClass('hidden'); 
+//jQuery('.navbar').affix();
+ jQuery('.cta-phone-box').affix({
+        offset: {
+            top: 150
+        }
+    });    /*===================================================================================*/
+    /*	Show hide call to action phone box if Affixed or not - By Roger
+    /*===================================================================================*/         $('.cta-phone-box').on('affixed.bs.affix', function () {          //Check to see if main nav is stick - if so don't show small request more info button          //if(!$('.navbar-main').hasClass('affix')){                $('.request-more-info-small').removeClass('hidden');           //}
          });
 
-        $('.cta-phone-box').on('affix-top.bs.affix', function () {         $('.request-more-info-small').addClass('hidden');         });
+        $('.cta-phone-box').on('affix-top.bs.affix', function () {         $('.request-more-info-small').addClass('hidden');         });    
 
 
 /*===================================================================================*/
-/*	SEARCH FUNCTINOALITY
+/*	SEARCH FUNCTIONALITY
 /*===================================================================================*/
 
 $(function () {
     $('a[href="#search"]').on('click', function (event) {
-        console.log("clicked search");
+        
         event.preventDefault();
         $('#search').addClass('open');
         $('#search > form > input[type="search"]').focus();
@@ -80,7 +131,43 @@ $(function () {
     });
 
    
+    //mobile 
+
+
+
+ $('a[href="#mobile-search"]').on('click', function (event) {
+     event.preventDefault();
+
+     $(".mobile-search").slideToggle();
+
+     if($( ".search .mobile" ).hasClass( "icon-search" )){
+         
+         $(".search .mobile.icon-search").removeClass("icon-search").addClass('icon-cancel-1');
+         jQuery('main').css({'opacity':'.1'});
+     }
+     else {
+         $(".search .mobile.icon-cancel-1").removeClass("icon-cancel-1").addClass('icon-search');
+         jQuery('main').css({'opacity':'1'});
+     }
+
+     
+   
 });
+
+
+
+//Window resize function                   
+        $(window).resize(function () {
+            if ($(window).width() > 1024) {
+               $(".mobile-search").hide();
+                $(".search .mobile.icon-cancel-1").removeClass("icon-cancel-1").addClass('icon-search');
+            }
+        });
+
+
+}); //End Function
+
+
 
 /*===================================================================================*/
 /*	ROYAL SLIDER CONFIG
@@ -136,8 +223,23 @@ $(document).ready(function () {
 
     var s = skrollr;
     var sActive = false;
+    $(window).on('resize', function () {
 
-    if ($(window).width() > 1024) {
+         if ($(window).width() > 1000) {
+        console.log("gt than 1024");
+        s.init({
+            mobileCheck: function () {
+                return false;
+            }
+        });
+        sActive = true;
+    }
+
+        });
+
+
+    if ($(window).width() > 1000) {
+        
         s.init({
             mobileCheck: function () {
                 return false;
@@ -147,11 +249,12 @@ $(document).ready(function () {
     }
 
     $(window).on('resize', function () {
-        if ($(window).width() < 1024 && sActive) {
+        if ($(window).width() < 1000 && sActive) {
+           
             s.init().destroy();
             sActive = false;
         }
-        else if ($(window).width() > 1024) {
+        else if ($(window).width() > 1000) {
             s.init({
                 mobileCheck: function () {
                     return false;

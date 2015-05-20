@@ -17,7 +17,6 @@
         <?php include("styles.php") ?>
     </head>
     <body id="page-top" data-spy="scroll" data-target=".subnav">
-       
         <?php include("navbar.php") ?>
 
 
@@ -37,15 +36,12 @@
                     <i class="fa fa-chevron-down"></i>
                 </a>
             </section>
-            <!-- ============================================================= NAVIGATION ============================================================= -->
-            <nav class="navbar subnav navbar-default" role="navigation">
-                <div class="container-fluid">
-                    <div class="collapse navbar-collapse navbar-ex1-collapse">
-                        <ul class="nav navbar-nav">
-                            <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
-                            <li class="hidden">
-                                <a class="page-scroll" href="#page-top"></a>
-                            </li>
+
+            <!-- subnav here -->
+            <div class="navbar subnav uti-blue-bg" role="navigation">
+                <div class="navbar-inner">
+                    <div class="container-fluid">
+                        <ul>
                             <li><a href="#program-overview" class="page-scroll">Program Overview</a></li>
                             <li><a href="#power-and-performance" class="page-scroll">Power & Performance</a></li>
 
@@ -54,12 +50,13 @@
                             <li><a href="#resources" class="page-scroll">Resources</a></li>
                             <li><a href="#campus-locations" class="page-scroll">Campus Locations</a></li>
                         </ul>
+                        
                     </div>
-                    <!-- /.navbar-collapse -->
                 </div>
-                <!-- /.container -->
-            </nav>
-            <!-- ============================================================= NAVIGATION END ============================================================= -->
+            </div>
+
+
+            <!-- ============================================================= SECTION END ============================================================= -->
             <!-- ============================================================= SECTION ============================================================= -->
             <section id="program-overview">
 
@@ -212,13 +209,13 @@
             </section>
             <!-- ============================================================= SECTION END ============================================================= -->
             <!-- ============================================================= SECTION ============================================================= -->
-            <section id="cta-one" class="uti-blue-bg">
+            <section id="cta-one" class="tint-bg">
                 <div class="container inner-xs">
                     <div class="row">
                         <div class="col-sm-10 center-block text-center">
                             <h1 class="single-block">
                             Ready to change your life yet?
-                                <a href="https://wrapbootstrap.com/theme/reen-made-for-designers-portfolio-WB00PN23G" target="_blank" class="btn btn-white btn-large black">Take the Next Step</a>
+                                <a href="https://wrapbootstrap.com/theme/reen-made-for-designers-portfolio-WB00PN23G" target="_blank" class="btn btn-large">Take the Next Step</a>
                             </h1>
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -401,11 +398,9 @@
                 <div class="container inner-top-sm inner-bottom-sm">
 
                     <div class="row">
-                        <div class="col-md-12 col-sm-9 center-block text-center">
+                        <div class="col-md-8 col-sm-9 center-block text-center">
                             <header>
-                                <div class="divider-1"></div>
                                 <h1>RESOURCES</h1>
-                                <div class="divider-1"></div>
                             </header>
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -582,6 +577,7 @@
                 </div><!-- /.container -->
             </section>
             <!-- ============================================================= SECTION END ============================================================= -->
+            <!-- ============================================================= SECTION – TAKE THE NEXT STEP =========================================L=================== -->
             <?php include("cta-bottom.php") ?>
 
             <!-- ============================================================= SECTION – TAKE THE NEXT STEP : END ============================================================= -->
@@ -592,7 +588,7 @@
 
         <?php include("footer.php") ?>
         <?php include("javascript.php") ?>
-
+  
 
 
     </body>

@@ -1,0 +1,173 @@
+
+/*===================================================================================*/
+/*	SKROLLR ANIMATIONS
+/*===================================================================================*/
+.header-left.skrollable-after:before {
+    height: 70px;
+   
+}
+
+body > div > div.header-middle.skrollable-after:after {
+    /*background-position: center top;
+    top: -54px;
+    height: 65px;*/
+ display: none;
+}
+
+
+
+
+
+
+
+.navbar .header-left {
+    -skrollr-animation-name: shrink-headerleft;
+}
+
+.navbar .header-middle {
+    -skrollr-animation-name: shrink-headermiddle;
+}
+
+.header-middle .navbar-nav > li > a {
+    -skrollr-animation-name: shrink-headermiddle-links;
+}
+
+.header-middle .search {
+    -skrollr-animation-name: shrink-headermiddle-search;
+}
+
+.header-middle::after {
+    -skrollr-animation-name: shrink-headermiddleafter;
+}
+
+.navbar .header-right {
+    -skrollr-animation-name: shrink-headerright;
+}
+
+.navbar .header-right img {
+    -skrollr-animation-name: shrink-headerright-image;
+}
+
+.navbar .requestMoreInfo {
+    -skrollr-animation-name: shrink-rmi;
+}
+
+.navbar .navbar-collapse {
+    -skrollr-animation-name: shrink-header;
+}
+
+.navbar .navbar-brand img {
+    -skrollr-animation-name: shrink-logo;
+}
+
+
+
+@-skrollr-keyframes shrink-headerleft {
+	0 {
+		height: 105px;
+        
+	}
+
+	1 {
+		height: 70px;
+
+	}
+}
+
+@-skrollr-keyframes shrink-headermiddle {
+	0 {
+		height: 84px;
+	}
+
+	1 {
+		height: 53px;
+	}
+}
+
+@-skrollr-keyframes shrink-headermiddle-links {
+	0 {
+		  padding-top: 25px;
+          padding-bottom: 25px;
+	}
+
+	1 {
+		  padding-top: 10px;
+          padding-bottom: 10px;
+	}
+}
+
+@-skrollr-keyframes shrink-headermiddle-search {
+	0 {
+		  margin-top: 26px;
+	}
+
+	1 {
+		  margin-top: 13px;
+	}
+}
+
+@-skrollr-keyframes shrink-headermiddleafter {
+	0 {
+		height: 84px;
+
+	}
+
+	1 {
+		height: 64px;
+	}
+}
+
+
+@-skrollr-keyframes shrink-headerright {
+	0 {
+		height: 84px;
+        background-image: url(http://www.uti.edu/uti/img/hdrleft_bg.png);
+	}
+
+	1 {
+		height: 53px;
+        background-image: url(http://www.uti.edu/uti/img/hdrMiddle_bg.png);
+	}
+}
+
+
+
+@-skrollr-keyframes shrink-rmi {
+	0 {
+		height: 60px;
+    display:inline-block;
+	}
+
+	1 {
+		height: 49px;
+    display:none;
+	}
+}
+
+@-skrollr-keyframes shrink-header {
+	0 {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		-webkit-box-shadow: 0 10px 10px rgba(0,0,0,0);
+		   -moz-box-shadow: 0 10px 10px rgba(0,0,0,0.0);
+				box-shadow: 0 10px 10px rgba(0,0,0,0);
+	}
+
+	1 {
+		padding-top: 0;
+		padding-bottom: 0;
+		-webkit-box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+		   -moz-box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+				box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+	}
+}
+
+@-skrollr-keyframes shrink-logo {
+	0 {
+		max-height: 70px;
+	}
+
+	1 {
+		max-height: 50px;
+	}
+}

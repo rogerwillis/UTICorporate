@@ -90,6 +90,49 @@
                             </figure>
 
                         </div><!-- /.col -->
+                        <div class="col-sm-6 outer-xs">
+                            <figure>
+
+                                <figcaption class="bordered no-top-border">
+                                    <div class="info">
+                                        <h4>Navigation V2 </h4>
+                                         Shows alternative navigation layout.
+                                        <p> <a href="http://utidemo.s3.amazonaws.com/UTICorporate/header-navigationv2.html" target="_blank">View</a></p>
+                                    </div><!-- /.info -->
+                                </figcaption>
+                            </figure>
+
+                        </div><!-- /.col --> 
+                        
+                        <!--<div class="col-sm-12 outer-xs">
+                            <figure>
+
+                                <figcaption class="bordered no-top-border">
+                                    <div class="info">
+                                        <h4>Navigation V3 (clean)</h4>
+                                         An all white clean header with sticky nav
+                                        <p> <a href="home4-clean-nav.php" target="_blank">View</a></p>
+                                    </div>
+                                </figcaption>
+                            </figure>
+
+                        </div>-->
+                        
+                        <!-- /.col -->
+                        
+                        <div class="col-sm-6 outer-xs">
+                            <figure>
+
+                                <figcaption class="bordered no-top-border">
+                                    <div class="info">
+                                        <h4>Navigation V3 <span class="label label-danger">New</span></h4>
+                                         UTI Header with Stick Navidation
+                                        <p> <a href="home5-nav-affixed.php" target="_blank">View</a></p>
+                                    </div><!-- /.info -->
+                                </figcaption>
+                            </figure>
+
+                        </div>
                         <div class="col-sm-4 outer-xs">
                             <figure>
 
@@ -147,7 +190,7 @@
 
                                 <figcaption class="bordered no-top-border">
                                     <div class="info">
-                                        <h4 class="red">Campus Page</h4>
+                                        <h4>Campus Page</h4>
                                         Example of a campus Page
                                         <p> <a href="campus.php" target="_blank">View</a></p>
                                     </div><!-- /.info -->
@@ -186,7 +229,7 @@
 
                                 <figcaption class="bordered no-top-border">
                                     <div class="info">
-                                        <h4 class="red">Events (V1)</h4>
+                                        <h4>Events (V1)</h4>
                                       Layout of Events
                                         <p> <a href="events.php" target="_blank">View</a></p>
                                     </div><!-- /.info -->
@@ -199,7 +242,7 @@
 
                                 <figcaption class="bordered no-top-border">
                                     <div class="info">
-                                        <h4 class="red">Events (V2)</h4>
+                                        <h4>Events (V2)</h4>
                                        Alternative version of Events
                                         <p> <a href="events2.php" target="_blank">View</a></p>
                                     </div><!-- /.info -->
@@ -212,7 +255,7 @@
 
                                 <figcaption class="bordered no-top-border">
                                     <div class="info">
-                                        <h4 class="red">Events Timeline(V3)</h4>
+                                        <h4>Events Timeline(V3)</h4>
                                         Timeline Layout of Events  <p><a href="events3.php" target="_blank">View</a></p>
                                     </div><!-- /.info -->
                                 </figcaption>
@@ -244,9 +287,6 @@
                             </figure>
 
                         </div><!-- /.col -->
-
-                 
-
                     </div><!-- /.row -->
 
                 </div><!-- /.container -->
@@ -298,6 +338,18 @@
                         </figure>
 
                     </div><!-- /.col -->
+                    <div class="col-sm-12 inner-top-xs">
+                        <figure>
+
+                            <figcaption class="bordered no-top-border">
+                                <div class="info">
+                                    <h4 style="text-decoration: line-through;">Add Mobile Search</h4>
+                                    <!--<p> <a href="index.php" target="_blank">View</a></p>-->
+                                </div><!-- /.info -->
+                            </figcaption>
+                        </figure>
+
+                    </div>
                   
                 </div><!-- /.container -->
             </section>

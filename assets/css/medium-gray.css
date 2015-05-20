@@ -26,12 +26,12 @@ a:focus,
 ul.arrowed li:before,
 ul.circled li:before,
 .yamm .yamm-content a:hover {
-	color: #003852;
+	color: #737373;
 }
 
 .tint-bg .btn,
 .tint-color {
-	color: #003852 !important;
+	color: #737373 !important;
 }
 
 .btn,
@@ -59,7 +59,7 @@ ul.circled li:before,
 .tint-bg.img-bg-soft:before,
 .tint-bg.img-bg-softer:before,
 .tooltip-inner {
-	background-color: #003852;
+	background-color: #737373;
 }
 
 .btn:hover,
@@ -72,14 +72,14 @@ ul.circled li:before,
 .pagination > .active > span:hover,
 .pagination > li > a:hover,
 .pagination > li > a:focus {
-	background-color: #2C3E50;
+	background-color: #859394;
 }
 
 .icon-overlay a .icn-more,
 .items li .text-overlay,
 .owl-carousel .item .text-overlay,
 .thumbs .thumb .text-overlay {
-	background-color: rgba(52, 73, 94, 0.9);
+	background-color: rgba(149, 165, 166, 0.9);
 }
 
 .classic-blog .post .date,
@@ -89,40 +89,35 @@ ul.circled li:before,
 .tabs-circle-top .tab a:hover,
 .tabs-side .tab a:hover,
 .tabs-top .tab a:hover {
-	border-color: #003852;
+	border-color: #737373;
 }
 
 .tooltip.top .tooltip-arrow,
 .tooltip.top-left .tooltip-arrow,
 .tooltip.top-right .tooltip-arrow {
-	border-top-color: #003852;
+	border-top-color: #737373;
 }
 .tooltip.right .tooltip-arrow {
-	border-right-color: #003852;
+	border-right-color: #737373;
 }
 .tooltip.left .tooltip-arrow {
-	border-left-color: #003852;
+	border-left-color: #737373;
 }
 .tooltip.bottom .tooltip-arrow,
 .tooltip.bottom-left .tooltip-arrow,
 .tooltip.bottom-right .tooltip-arrow {
-	border-bottom-color: #003852;
+	border-bottom-color: #737373;
 }
 
 #owl-main .caption h1 span.tint-bg,
 #owl-main .caption p span.tint-bg  {
-	box-shadow: -.500em 0 0 #003852, .500em 0 0 #003852;
+	box-shadow: -.500em 0 0 #737373, .500em 0 0 #737373;
 }
 
 ::selection {
-	background: #CEE0F2; /* Safari */
+	background: #DAE5E5; /* Safari */
 }
 
 ::-moz-selection {
-	background: #CEE0F2; /* Firefox */
-}
-
-
-.subnav {
-    background:003852;
+	background: #DAE5E5; /* Firefox */
 }

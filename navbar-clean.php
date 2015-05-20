@@ -1,8 +1,5 @@
-<?php
-    
-?>
-<!-- Static navbar -->
-<div class="navbar navbar-default navbar-main navbar-static-top">
+<div class="navbar">
+
     <div class="navbar-header navbar-mobile-header black-bg">
         <!-- ============================================================= LOGO MOBILE ============================================================= -->
         <div class="container-fluid text-center">
@@ -10,36 +7,45 @@
                 <a class="navbar-brand" href="index.php"><img src="http://www.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt="Universal Technical Institute"></a>
             </div>
 
-
-
             <div class="mobile-cta">
-                                    <!--<div class="col-xs-5 mobile-phone text-right"><p>(800) 555-1234</p></div>
-                                    <div class="col-xs-7 mobile-btn">
-                                        <a href="#" class="btn"> TAKE THE NEXT STEP</a></div>-->
-                <div class="btn-group btn-group-justified" role="group">
-                    <div class="btn-group" role="group">
-                       
-                        <a href="tel://1-800-834-7308" class="btn btn-white black btn-mobile-phone"><i class="mobile icon-phone"></i>&nbsp;&nbsp;&nbsp; (800) 834-7308</a>
-                    </div>
-                    <div class="btn-group" role="group">
-                        <a href="#" class="btn btn-blue btn-mobile-cta">Take The Next Step</a>
-                    </div>
+                <a href="#" class="btn"> TAKE THE NEXT STEP</a>
+                <div class="mobile-phone">
+ (800) 555-1234
                 </div>
-
-
-
             </div>
-
-
-
         </div>
         <!-- ============================================================= LOGO MOBILE : END ============================================================= -->
     </div>
+
+
+
+
     <div class="navbar-header">
+        <div class="container">
+
+            <ul class="info pull-right inner-left-xs">
+
+                <li><i class="icon-mobile contact inner-left-xs"></i> (800) 834-7308</li>
+            </ul><!-- /.info -->
+            <ul class="social pull-right">
+                <li><a href="#"><i class="icon-s-facebook"></i></a></li>
+                <li><a href="#"><i class="icon-s-gplus"></i></a></li>
+                <li><a href="#"><i class="icon-s-twitter"></i></a></li>
+                <li><a href="#"><i class="icon-s-pinterest"></i></a></li>
+                <li><a href="#"><i class="icon-s-behance"></i></a></li>
+                <li><a href="#"><i class="icon-s-dribbble"></i></a></li>
+                 
+            </ul><!-- /.social -->
+         
+
+        </div><!-- /.container -->
+    </div><!-- /.navbar-header -->
+
+       <div class="navbar-header">
         <div class="container-fluid ">
             <div class="row">
                 <div class="mobile-cta-container">
-                    <a class="btn responsive-menu" data-toggle="collapse" data-target=".navbar-collapse"><i class="mobile-menu icon-menu-1"></i><span>menu</span></a>
+                    <a class="btn responsive-menu" data-toggle="collapse" data-target=".navbar-collapse"><i class="icon-menu-1"></i>menu</a>
                     <div class="search"><a href="#mobile-search"><i class="mobile icon-search"></i></a></div>
                 </div>
 
@@ -50,12 +56,17 @@
         </div>
         <!-- /.container -->
     </div>
-    <div class="header-left">
-        <a class="navbar-brand" href="index.php"><img src="http://www.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt=""></a>
-    </div>
-    <div class="header-middle">
-        <div class="search pull-right"><a href="#search"><i class="icon-search"></i></a></div>
-        <div class="navbar-collapse collapse">
+
+
+   
+    <div class="navbar-collapse collapse">
+        <div class="container">
+
+            <!-- ============================================================= LOGO ============================================================= -->
+            <a class="navbar-brand" href="index.html"><img src="http://www.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt=""></a>
+
+            <!-- ============================================================= LOGO : END ============================================================= -->
+            <!-- ============================================================= MAIN NAVIGATION ============================================================= -->
             <ul class="nav navbar-nav">
 
                 <li class="dropdown menu-small">
@@ -251,44 +262,23 @@
 
                 <!-- /.searchbox -->
             </ul>
-        </div>
-    </div>
-    <div class="mobile-search">
-        <div class="input-group">
-            <input type="search" value="" placeholder="type keyword(s) here" />
 
-            <span class="input-group-btn no-margin">
-                <button type="submit" class="btn btn-primary bg-red no-margin"><i class="fa fa-search"></i></button>
-            </span>
-        </div>
-
-
-
-
-
-    </div>
-    <div class="header-right">
-        <a href="#">
-            <img class="requestMoreInfo" data-hover="http://www.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStepBlueHover.ashx" src="http://www.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStepBlue.ashx" alt="TakeNextStepBlue">
-        </a>
-    </div>
-    <div class="cta-phone-box">
-        <ul>
-            <li class="request-more-info-small hidden">
-                <a href="http://getinfo.uti.edu/form2v6/">
-                    <img src="http://www.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStep_smBlue.ashx" alt="Request Info">
-                </a>
-            </li>
-            <li class="phone">
-             (800) 834-7308
-            </li>
-        </ul>
-    </div>
-    <div id="search">
-        <button type="button" class="close">×</button>
-        <form>
-            <input type="search" value="" placeholder="type keyword(s) here" />
-            <button type="submit" class="btn btn-primary">Search</button>
-        </form>
-    </div>
+            <!-- ============================================================= MAIN NAVIGATION : END ============================================================= -->
+        </div><!-- /.container -->
+    </div><!-- /.navbar-collapse -->
 </div>
+
+<div class="mobile-search">
+        <div class="input-group">
+              <input type="search" value="" placeholder="type keyword(s) here"/>
+
+              <span class="input-group-btn no-margin">
+               <button type="submit" class="btn btn-primary bg-red no-margin"><i class="fa fa-search"></i></button>
+              </span>
+            </div>
+
+
+
+
+
+        </div>

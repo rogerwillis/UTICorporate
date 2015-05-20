@@ -170,12 +170,12 @@ a.gray:hover {
 /*ol {
 	position: relative;
 	padding-left: 22px;
-}*/
+}
 ul {
     list-style: none;
-    /*position: relative;
-    padding-left: 22px;*/
-}
+	position: relative;
+	padding-left: 22px;
+}*/
 ul.arrowed li,
 ul.circled li,
 ol li {
@@ -5699,11 +5699,57 @@ a.changecolor {
 /*	SKROLLR ANIMATIONS
 /*===================================================================================*/
 
+
+.navbar .header-left {
+	-skrollr-animation-name: shrink-headerleft;
+}
+
 .navbar .navbar-collapse {
 	-skrollr-animation-name: shrink-header;
 }
 
 .navbar .navbar-brand img {
 	-skrollr-animation-name: shrink-logo;
+}
+
+
+
+@-skrollr-keyframes shrink-headerleft {
+	70 {
+		max-height: 70px;
+	}
+
+	300 {
+		max-height: 60px;
+	}
+}
+
+
+@-skrollr-keyframes shrink-header {
+	0 {
+		padding-top: 0px;
+		padding-bottom: 0px;
+		-webkit-box-shadow: 0 10px 10px rgba(0,0,0,0);
+		   -moz-box-shadow: 0 10px 10px rgba(0,0,0,0.0);
+				box-shadow: 0 10px 10px rgba(0,0,0,0);
+	}
+
+	300 {
+		padding-top: 0;
+		padding-bottom: 0;
+		-webkit-box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+		   -moz-box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+				box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+	}
+}
+
+@-skrollr-keyframes shrink-logo {
+	70 {
+		max-height: 70px;
+	}
+
+	300 {
+		max-height: 60px;
+	}
 }
 
