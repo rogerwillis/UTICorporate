@@ -32,6 +32,11 @@
 
                     </div>
 
+                        <div class="rsContent">
+                        <img class="rsImg" src="http://www.uti.edu/~/media/images/uti/sliders/home/space-background.ashx" alt="UTI">
+
+                    </div>
+
                 </div>
 
                 <a href="#programs" class="scrollTo circle"> <i class="fa fa-chevron-down"></i></a>

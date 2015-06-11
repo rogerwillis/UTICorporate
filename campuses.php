@@ -38,7 +38,7 @@
             <section id="programs-list" class="light-bg">
                 <div class="container inner-top-xs inner-bottom-xs">
                     <div class="row row-eq-height inner-top-sm">
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -61,7 +61,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -81,7 +81,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -104,7 +104,7 @@
                         </div><!-- /.col -->
                     </div>
                     <div class="row row-eq-height inner-top-sm">
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -123,7 +123,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -143,7 +143,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -165,7 +165,7 @@
                         </div><!-- /.col -->
                     </div>
                     <div class="row row-eq-height inner-top-sm">
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -186,7 +186,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -206,7 +206,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -226,7 +226,7 @@
                         </div><!-- /.col -->
                     </div>
                     <div class="row row-eq-height inner-top-sm">
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -245,7 +245,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -264,7 +264,7 @@
                             </figure>
 
                         </div><!-- /.col -->
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
@@ -287,7 +287,7 @@
                         </div><!-- /.col -->
                     </div>
                     <div class="row row-eq-height inner-top-sm">
-                        <div class="col-sm-4">
+                        <div class="col-md-4">
                             <figure>
                                 <a href=""><img src="assets/images/art/work01.jpg" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
