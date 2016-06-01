@@ -27,7 +27,7 @@
                 <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
 
                     <div class="rsContent">
-                        <img class="rsImg" src="http://www.uti.edu/~/media/Images/UTI/Sliders/Campuses/Avondale/phx-uti.ashx" alt="">
+                        <img class="rsImg" src="http://beta.uti.edu/~/media/Images/UTI/Sliders/Campuses/Avondale/phx-uti.ashx" alt="">
 
                     </div>
 
@@ -109,7 +109,7 @@
                     <div class="row">
                         <div class="col-sm-4">
                             <figure>
-                                <a href="program.php"><img src="http://www.uti.edu/~/media/Images/UTI/Image List/home-auto.ashx" alt="Program Name"></a>
+                                <a href="program.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Image List/home-auto.ashx" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Automotive</h4>
@@ -122,7 +122,7 @@
 
                         <div class="col-sm-4">
                             <figure>
-                                <a href="program.php"><img src="http://www.uti.edu/~/media/Images/UTI/Image%20List/home-diesel.ashx" alt="Program Name"></a>
+                                <a href="program.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Image%20List/home-diesel.ashx" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Diesel</h4>
@@ -136,7 +136,7 @@
 
                         <div class="col-sm-4">
                             <figure>
-                                <a href="program.php"><img src="http://www.uti.edu/~/media/Images/UTI/Image%20List/auto-diesel.ashx" alt="Program Name"></a>
+                                <a href="program.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Image%20List/auto-diesel.ashx" alt="Program Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Auto & Diesel</h4>
@@ -160,7 +160,7 @@
                     <div class="row">
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/ford1.ashxx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/ford1.ashxx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Ford</h4>
@@ -173,7 +173,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/bmw-auto.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/bmw-auto.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>BMW</h4>
@@ -186,7 +186,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped Content Thumbs/Partners/gm-chevy.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped Content Thumbs/Partners/gm-chevy.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>GM/Chevy</h4>
@@ -199,20 +199,20 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Volvo</h4>
                                         <p><a href="partner.php">Learn More</a></p>
                                     </div><!-- /.info -->
                                 </figcaption>
-                            </figure>
+                            </figure> 
 
                         </div>
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/daimlerFreightliner.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/daimlerFreightliner.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Freightliner</h4>
@@ -225,7 +225,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/cummins.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/cummins.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Cummins</h4>

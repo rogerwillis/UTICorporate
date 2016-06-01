@@ -7,7 +7,7 @@
         <!-- ============================================================= LOGO MOBILE ============================================================= -->
         <div class="container-fluid text-center">
             <div class="logo">
-                <a class="navbar-brand" href="index.php"><img src="http://www.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt="Universal Technical Institute"></a>
+                <a class="navbar-brand" href="index.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt="Universal Technical Institute"></a>
             </div>
 
 
@@ -51,7 +51,7 @@
         <!-- /.container -->
     </div>
     <div class="header-left">
-        <a class="navbar-brand" href="index.php"><img src="http://www.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt=""></a>
+        <a class="navbar-brand" href="index.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Logos/UTIMainLogo.ashx" class="logo" alt=""></a>
     </div>
     <div class="header-middle">
         <div class="search pull-right"><a href="#search"><i class="icon-search"></i></a></div>
@@ -83,110 +83,110 @@
                                 <li><a href="partner.php" class="">BMW - FastTrack/STEP</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/ford" class="">Ford - FACT</a></li>
+                                <li><a href="http://beta.uti.edu/partners/ford" class="">Ford - FACT</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/gm" class="">GM Tech</a></li>
+                                <li><a href="http://beta.uti.edu/partners/gm" class="">GM Tech</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/honda" class="">Honda - PACT</a></li>
+                                <li><a href="http://beta.uti.edu/partners/honda" class="">Honda - PACT</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/mercedes-benz" class="">Mercedes-Benz - ELITE START/ADVANCED</a></li>
+                                <li><a href="http://beta.uti.edu/partners/mercedes-benz" class="">Mercedes-Benz - ELITE START/ADVANCED</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/mini" class="">MINI - STEP</a></li>
+                                <li><a href="http://beta.uti.edu/partners/mini" class="">MINI - STEP</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/nascar" class="">NASCAR</a></li>
+                                <li><a href="http://beta.uti.edu/programs/nascar" class="">NASCAR</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/nissan" class="">Nissan - NATT</a></li>
+                                <li><a href="http://beta.uti.edu/partners/nissan" class="">Nissan - NATT</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/porsche" class="">Porsche - PTAP</a></li>
+                                <li><a href="http://beta.uti.edu/partners/porsche" class="">Porsche - PTAP</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/toyota" class="">Toyota - TPAT</a></li>
+                                <li><a href="http://beta.uti.edu/partners/toyota" class="">Toyota - TPAT</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/volvo" class="">Volvo - SAFE</a></li>
+                                <li><a href="http://beta.uti.edu/partners/volvo" class="">Volvo - SAFE</a></li>
 
                             </ul>
                         </li>
                         <li class="col-sm-3">
                             <ul>
                                 <li class="dropdown-header"><h3>DIESEL </h3></li>
-                                <li><a href="http://www.uti.edu/partners/cummins-engine" class="">Cummins - Diesel Engines</a></li>
+                                <li><a href="http://beta.uti.edu/partners/cummins-engine" class="">Cummins - Diesel Engines</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/cummins-power" class="">Cummins - Power Gen</a></li>
+                                <li><a href="http://beta.uti.edu/partners/cummins-power" class="">Cummins - Power Gen</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/daimler-trucks" class="">Daimler Trucks North America - Finish First</a></li>
+                                <li><a href="http://beta.uti.edu/partners/daimler-trucks" class="">Daimler Trucks North America - Finish First</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/international" class="">International Trucks - ITEP</a></li>
+                                <li><a href="http://beta.uti.edu/partners/international" class="">International Trucks - ITEP</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/peterbilt" class="">Peterbilt</a></li>
+                                <li><a href="http://beta.uti.edu/partners/peterbilt" class="">Peterbilt</a></li>
 
                             </ul>
                         </li>
                         <li class="col-sm-2">
                             <ul>
                                 <li class="dropdown-header"><h3>COLLISION REPAIR </h3></li>
-                                <li><a href="http://www.uti.edu/programs/collision" class="">3M</a></li>
+                                <li><a href="http://beta.uti.edu/programs/collision" class="">3M</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/collision" class="">Axalta</a></li>
+                                <li><a href="http://beta.uti.edu/programs/collision" class="">Axalta</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/collision" class="">Chief Automotive</a></li>
+                                <li><a href="http://beta.uti.edu/programs/collision" class="">Chief Automotive</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/collision" class="">I-Car</a></li>
+                                <li><a href="http://beta.uti.edu/programs/collision" class="">I-Car</a></li>
 
                             </ul>
                         </li>
                         <li class="col-sm-2">
                             <ul>
                                 <li class="dropdown-header"><h3>MOTORCYCLE </h3></li>
-                                <li><a href="http://www.uti.edu/partners/bmw-motorrad" class="">BMW Motorrad</a></li>
+                                <li><a href="http://beta.uti.edu/partners/bmw-motorrad" class="">BMW Motorrad</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/harley-davidson" class="">Harley-Davidson</a></li>
+                                <li><a href="http://beta.uti.edu/partners/harley-davidson" class="">Harley-Davidson</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/honda-motorcycle" class="">Honda - HonTech</a></li>
+                                <li><a href="http://beta.uti.edu/partners/honda-motorcycle" class="">Honda - HonTech</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/kawasaki" class="">Kawasaki - K-Tech</a></li>
+                                <li><a href="http://beta.uti.edu/partners/kawasaki" class="">Kawasaki - K-Tech</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/suzuki-motorcycle" class="">Suzuki - FAST</a></li>
+                                <li><a href="http://beta.uti.edu/partners/suzuki-motorcycle" class="">Suzuki - FAST</a></li>
 
 
-                                <li><a href="http://www.uti.edu/partners/yamaha-motorcycle" class="">Yamaha - YAMAPRO</a></li>
+                                <li><a href="http://beta.uti.edu/partners/yamaha-motorcycle" class="">Yamaha - YAMAPRO</a></li>
 
                             </ul>
                         </li>
                         <li class="col-sm-2">
                             <ul>
                                 <li class="dropdown-header"><h3>MARINE </h3></li>
-                                <li><a href="http://www.uti.edu/programs/marine" class="">Honda Marine</a></li>
+                                <li><a href="http://beta.uti.edu/programs/marine" class="">Honda Marine</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/marine" class="">Mercury Marine</a></li>
+                                <li><a href="http://beta.uti.edu/programs/marine" class="">Mercury Marine</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/marine" class="">Suzuki Marine</a></li>
+                                <li><a href="http://beta.uti.edu/programs/marine" class="">Suzuki Marine</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/marine" class="">Volvo Penta</a></li>
+                                <li><a href="http://beta.uti.edu/programs/marine" class="">Volvo Penta</a></li>
 
 
-                                <li><a href="http://www.uti.edu/programs/marine" class="">Yamaha Marine</a></li>
+                                <li><a href="http://beta.uti.edu/programs/marine" class="">Yamaha Marine</a></li>
 
 
                             </ul>
@@ -269,14 +269,14 @@
     </div>
     <div class="header-right">
         <a href="#">
-            <img class="requestMoreInfo" data-hover="http://www.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStepBlueHover.ashx" src="http://www.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStepBlue.ashx" alt="TakeNextStepBlue">
+            <img class="requestMoreInfo" data-hover="http://beta.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStepBlueHover.ashx" src="http://beta.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStepBlue.ashx" alt="TakeNextStepBlue">
         </a>
     </div>
     <div class="cta-phone-box">
         <ul>
             <li class="request-more-info-small hidden">
                 <a href="http://getinfo.uti.edu/form2v6/">
-                    <img src="http://www.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStep_smBlue.ashx" alt="Request Info">
+                    <img src="http://beta.uti.edu/~/media/Images/UTI/CTAButtons/TakeNextStep_smBlue.ashx" alt="Request Info">
                 </a>
             </li>
             <li class="phone">

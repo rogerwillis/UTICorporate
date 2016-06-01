@@ -26,7 +26,7 @@
                 <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
 
                     <div class="rsContent">
-                        <img class="rsImg" src="http://www.uti.edu/~/media/images/uti/sliders/programs/auto/hands-on-02.ashx" alt="">
+                        <img class="rsImg" src="http://beta.uti.edu/~/media/images/uti/sliders/programs/auto/hands-on-02.ashx" alt="">
 
                     </div>
 

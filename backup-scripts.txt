@@ -121,12 +121,12 @@ body > div > div.header-middle.skrollable-after:after {
 @-skrollr-keyframes shrink-headerright {
 	0 {
 		height: 84px;
-        background-image: url(http://www.uti.edu/uti/img/hdrleft_bg.png);
+        background-image: url(http://beta.uti.edu/uti/img/hdrleft_bg.png);
 	}
 
 	1 {
 		height: 53px;
-        background-image: url(http://www.uti.edu/uti/img/hdrMiddle_bg.png);
+        background-image: url(http://beta.uti.edu/uti/img/hdrMiddle_bg.png);
 	}
 }
 

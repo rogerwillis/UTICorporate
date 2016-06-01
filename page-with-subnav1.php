@@ -26,7 +26,7 @@
                 <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
 
                     <div class="rsContent">
-                        <img class="rsImg" src="http://www.uti.edu/~/media/images/uti/sliders/programs/auto/hands-on-02.ashx" alt="">
+                        <img class="rsImg" src="http://beta.uti.edu/~/media/images/uti/sliders/programs/auto/hands-on-02.ashx" alt="">
 
                     </div>
 
@@ -138,7 +138,7 @@
                             experience required to become ASE Certified.
                             </p>
                         </div>
-                        <div class="col-md-6"><img src="http://www.uti.edu/~/media/Images/UTI/Programs%20Images/ASE-Logo-560px.ashx" /></div>
+                        <div class="col-md-6"><img src="http://beta.uti.edu/~/media/Images/UTI/Programs%20Images/ASE-Logo-560px.ashx" /></div>
                     </div>
                 </div><!-- /.container -->
             </section>

@@ -2,6 +2,32 @@
 /*	HEADER
 /*===================================================================================*/
 
+
+.inner-top-xs {
+    padding-top: 45px;
+}
+
+.inner-bottom-xs {
+    padding-bottom: 45px;
+}
+
+.outer-top-xs {
+    margin-top: 45px;
+}
+
+.outer-bottom-xs {
+    margin-bottom: 45px;
+}
+
+
+
+
+
+
+/*===================================================================================*/
+/*	HEADER
+/*===================================================================================*/
+
 header .container-fluid {
     position: relative;
     z-index: 1;
@@ -31,28 +57,28 @@ header .container-fluid {
     box-shadow: 8px 3px 8px rgba(50,50,50,.75);
     background: #d83427 url(http://beta.uti.edu/uti/img/hdrMiddle_bg.png) repeat-x;
 }
-.header-middle:after {
-      content: '';
-  display: block;
-  width: 43px;
-  height: 83px;
-  position: absolute;
-  top: 0;
-  left: 99%;
-    z-index: 1000;
-  background: url(http://beta.uti.edu/uti/img/ra_red.png) no-repeat;
 
-}
+    .header-middle:after {
+        content: '';
+        display: block;
+        width: 43px;
+        height: 83px;
+        position: absolute;
+        top: 0;
+        left: 99%;
+        z-index: 1000;
+        background: url(http://beta.uti.edu/uti/img/ra_red.png) no-repeat;
+    }
 
 .hdrMiddle:after {
-  content: '';
-  display: block;
-  width: 43px;
-  height: 83px;
-  position: absolute;
-  top: 0;
-  left: 99%;
-  z-index: 1000;
+    content: '';
+    display: block;
+    width: 43px;
+    height: 83px;
+    position: absolute;
+    top: 0;
+    left: 99%;
+    z-index: 1000;
 }
 
 
@@ -111,23 +137,24 @@ img {
 /*===================================================================================*/
 
 .navbar-nav > li > a {
-    font-size: 16px;
+    font-size: 15px;
     line-height: 16px;
-    font-weight: 600;
-    text-transform: inherit;
-    padding: 8px 20px;
+    /* text-transform: inherit; */
+    padding: 8px 31px;
 }
 
 .navbar-collapse.collapse {
     padding: 0;
 }
 
-.navbar-collapse {
+/*.navbar-collapse {
     background-color: transparent;
 }
 
 .navbar {
     background-color: transparent;
+}*/
+.navbar-right {
 }
 
 /*===================================================================================*/
@@ -189,4 +216,25 @@ img {
 
 section#hero {
     border-bottom: 5px solid #0186d1;
+}
+
+
+
+
+
+/*BLUE CUSTOM*/
+.navbar-header {
+}
+
+
+
+
+
+
+
+/*Media Queries*/
+@media (max-width: 768px) {
+    .dropdown-menu {
+        display: none;
+    }
 }

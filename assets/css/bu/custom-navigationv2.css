@@ -44,7 +44,7 @@ header .container-fluid {
 .header-left {
     height: 125px;
     position: absolute;
-    background: #efefef url(http://www.uti.edu/uti/img/hdrleft_bg.png) repeat-x;
+    background: #efefef url(http://beta.uti.edu/uti/img/hdrleft_bg.png) repeat-x;
     margin: 0 auto;
     -webkit-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
     -moz-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
@@ -72,7 +72,7 @@ header .container-fluid {
     -webkit-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
     -moz-box-shadow: 8px 3px 8px rgba(50,50,50,.75);
     box-shadow: 8px 3px 8px rgba(50,50,50,.75);
-    background: #d83427 url(http://www.uti.edu/uti/img/hdrMiddle_bg.png) repeat-x;
+    background: #d83427 url(http://beta.uti.edu/uti/img/hdrMiddle_bg.png) repeat-x;
     width: 81%;
     float: left;
 }
@@ -86,7 +86,7 @@ header .container-fluid {
         top: -72px;
         left: 100%;
         z-index: 0;
-        background: url(http://www.uti.edu/uti/img/ra_red.png) no-repeat;
+        background: url(http://beta.uti.edu/uti/img/ra_red.png) no-repeat;
     }
 
 

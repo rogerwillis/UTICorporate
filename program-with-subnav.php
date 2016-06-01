@@ -27,7 +27,7 @@
                 <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
 
                     <div class="rsContent">
-                        <img class="rsImg" src="http://www.uti.edu/~/media/images/uti/sliders/programs/auto/hands-on-02.ashx" alt="">
+                        <img class="rsImg" src="http://beta.uti.edu/~/media/images/uti/sliders/programs/auto/hands-on-02.ashx" alt="">
 
                     </div>
 
@@ -134,7 +134,7 @@
                             experience required to become ASE Certified.
                             </p>
                         </div>
-                        <div class="col-md-6"><img src="http://www.uti.edu/~/media/Images/UTI/Programs%20Images/ASE-Logo-560px.ashx" /></div>
+                        <div class="col-md-6"><img src="http://beta.uti.edu/~/media/Images/UTI/Programs%20Images/ASE-Logo-560px.ashx" /></div>
                     </div>
                 </div><!-- /.container -->
             </section>
@@ -251,7 +251,7 @@
                     <div class="row">
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/bmw-auto.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/bmw-auto.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>BMW</h4>
@@ -264,7 +264,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/ford1.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/ford1.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Ford</h4>
@@ -278,7 +278,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Partners/honda-auto.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Partners/honda-auto.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Honda</h4>
@@ -293,7 +293,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/nissan-alt.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/nissan-alt.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Nissan</h4>
@@ -307,7 +307,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/toyota-alt.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/toyota-alt.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Toyota</h4>
@@ -322,7 +322,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mercedes.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mercedes.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Mercedes</h4>
@@ -337,7 +337,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped Content Thumbs/Partners/mini.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped Content Thumbs/Partners/mini.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Mini</h4>
@@ -352,7 +352,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/porsche.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/porsche.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Porsche</h4>
@@ -365,7 +365,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashxx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashxx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>Volvo</h4>
@@ -378,7 +378,7 @@
 
                         <div class="col-sm-3">
                             <figure>
-                                <a href="partner.php"><img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/gm-chevy.ashx" alt="Partner Name"></a>
+                                <a href="partner.php"><img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/gm-chevy.ashx" alt="Partner Name"></a>
                                 <figcaption class="bordered no-top-border">
                                     <div class="info text-left">
                                         <h4>GM/Chevy</h4>

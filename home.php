@@ -28,12 +28,12 @@
                 <div id="full-width-slider" class="royalSlider heroSlider rsMinW">
 
                     <div class="rsContent">
-                        <img class="rsImg" src="http://www.uti.edu/~/media/images/uti/sliders/home/space-background.ashx" alt="UTI">
+                        <img class="rsImg" src="http://beta.uti.edu/~/media/images/uti/sliders/home/space-background.ashx" alt="UTI">
 
                     </div>
 
                         <div class="rsContent">
-                        <img class="rsImg" src="http://www.uti.edu/~/media/images/uti/sliders/home/space-background.ashx" alt="UTI">
+                        <img class="rsImg" src="http://beta.uti.edu/~/media/images/uti/sliders/home/space-background.ashx" alt="UTI">
 
                     </div>
 
@@ -58,27 +58,27 @@
                     <div class="row imgboxes_style1">
 
                         <div class="col-lg-2 col-md-3 col-sm-3 outer-bottom-sm">
-                            <img src="http://www.uti.edu/~/media/images/uti/image%20list/home-auto.ashx" />
+                            <img src="http://beta.uti.edu/~/media/images/uti/image%20list/home-auto.ashx" />
                             <h3>AUTO +</h3>
                         </div><!-- /.col -->
                         <div class="col-lg-2 col-md-3 col-sm-3 outer-bottom-sm">
-                            <img src="http://www.uti.edu/~/media/images/uti/image%20list/home-diesel.ashx" />
+                            <img src="http://beta.uti.edu/~/media/images/uti/image%20list/home-diesel.ashx" />
                             <h3>DIESEL +</h3>
                         </div><!-- /.col -->
                         <div class="col-lg-2 col-md-3 col-sm-3 outer-bottom-sm">
-                            <img src="http://www.uti.edu/~/media/Images/UTI/Image%20List/home-crrt.ashx" />
+                            <img src="http://beta.uti.edu/~/media/Images/UTI/Image%20List/home-crrt.ashx" />
                             <h3>COLLISION +</h3>
                         </div><!-- /.col -->
                         <div class="col-lg-2 col-md-3 col-sm-3 outer-bottom-sm">
-                            <img src="http://www.uti.edu/~/media/Images/UTI/Image%20List/home-nascar.ashx" />
+                            <img src="http://beta.uti.edu/~/media/Images/UTI/Image%20List/home-nascar.ashx" />
                             <h3>NASCAR +</h3>
                         </div><!-- /.col -->
                         <div class="col-lg-2 col-md-3 col-sm-3 outer-bottom-sm">
-                            <img src="http://www.uti.edu/~/media/Images/UTI/Image%20List/home-honda.ashx" />
+                            <img src="http://beta.uti.edu/~/media/Images/UTI/Image%20List/home-honda.ashx" />
                             <h3>MOTORCYCLE +</h3>
                         </div><!-- /.col -->
                         <div class="col-lg-2 col-md-3 col-sm-3 outer-bottom-sm">
-                            <img src="http://www.uti.edu/~/media/Images/UTI/Image%20List/home-marine.ashx" />
+                            <img src="http://beta.uti.edu/~/media/Images/UTI/Image%20List/home-marine.ashx" />
                             <h3>MARINE +</h3>
                         </div><!-- /.col -->
                     </div><!-- /.row -->
@@ -111,7 +111,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashx" alt="">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashx" alt="">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -124,7 +124,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-penta.ashx" alt="">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-penta.ashx" alt="">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -137,7 +137,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mini.ashx">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mini.ashx">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -150,7 +150,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mercedes.ashx">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mercedes.ashx">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -163,7 +163,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashx" alt="">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-auto.ashx" alt="">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -176,7 +176,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-penta.ashx" alt="">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/volvo-penta.ashx" alt="">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -189,7 +189,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mini.ashx">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mini.ashx">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
@@ -202,7 +202,7 @@
                                                 <p>Learn More</p>
                                             </div><!-- /.info -->
                                         </figcaption>
-                                        <img src="http://www.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mercedes.ashx">
+                                        <img src="http://beta.uti.edu/~/media/Images/UTI/Grouped%20Content%20Thumbs/Partners/mercedes.ashx">
                                     </figure>
                                 </a>
                             </div><!-- /.item -->
